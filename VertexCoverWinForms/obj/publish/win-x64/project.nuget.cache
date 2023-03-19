@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nncb0t2p0+a6e8+hyh0lzMZocI+SD9Vqq6WDgzzrH7BjUNgLieMzwrkAO53Liv+XHtu5u1Xiv2o1P4zJZHefRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ПК\\Desktop\\Курсова\\VertexCoverWinForms\\VertexCoverWinForms\\VertexCoverWinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ПК\\.nuget\\packages\\automaticgraphlayout\\1.1.12\\automaticgraphlayout.1.1.12.nupkg.sha512",
+    "C:\\Users\\ПК\\.nuget\\packages\\automaticgraphlayout.drawing\\1.1.12\\automaticgraphlayout.drawing.1.1.12.nupkg.sha512",
+    "C:\\Users\\ПК\\.nuget\\packages\\automaticgraphlayout.graphviewergdi\\1.1.12\\automaticgraphlayout.graphviewergdi.1.1.12.nupkg.sha512",
+    "C:\\Users\\ПК\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.5\\microsoft.netcore.app.runtime.win-x64.6.0.5.nupkg.sha512",
+    "C:\\Users\\ПК\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.5.nupkg.sha512",
+    "C:\\Users\\ПК\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.5\\microsoft.aspnetcore.app.runtime.win-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+Greedy result {5, 4, 2}
+Approx result {4, 3, 5, 1}
+
